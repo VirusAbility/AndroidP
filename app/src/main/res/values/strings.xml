@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidP</string>
+    <string name="title_todayC">오늘의 색</string>
+    <string name="title_colorC">색 달력</string>
+</resources>
